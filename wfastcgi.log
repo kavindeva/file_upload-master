@@ -1,0 +1,1731 @@
+2022-01-25 08:10:35.862905: wfastcgi.py 3.0.0 started
+2022-01-25 08:10:35.862905: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-25 08:10:35.862905: wfastcgi.py 3.0.0 initializing
+2022-01-25 08:10:36.269116: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-25 08:10:36.269116: wfastcgi.py 3.0.0 initialized
+2022-01-25 08:36:17.639112: wfastcgi.py 3.0.0 started
+2022-01-25 08:36:17.639112: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-25 08:36:17.639112: wfastcgi.py 3.0.0 initializing
+2022-01-25 08:36:18.015832: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-25 08:36:18.015832: wfastcgi.py 3.0.0 initialized
+2022-01-25 09:21:56.336582: wfastcgi.py 3.0.0 started
+2022-01-25 09:21:56.336582: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-25 09:21:56.337588: wfastcgi.py 3.0.0 initializing
+2022-01-25 09:21:56.829114: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-25 09:21:56.829114: wfastcgi.py 3.0.0 initialized
+2022-01-25 10:59:17.059511: wfastcgi.py 3.0.0 started
+2022-01-25 10:59:17.059511: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-25 10:59:17.059511: wfastcgi.py 3.0.0 initializing
+2022-01-25 10:59:17.418870: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-25 10:59:17.418870: wfastcgi.py 3.0.0 initialized
+2022-01-25 11:44:16.403543: wfastcgi.py 3.0.0 started
+2022-01-25 11:44:16.403543: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-25 11:44:16.403543: wfastcgi.py 3.0.0 initializing
+2022-01-25 11:44:16.762916: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-25 11:44:16.762916: wfastcgi.py 3.0.0 initialized
+2022-01-25 12:04:06.256678: wfastcgi.py 3.0.0 started
+2022-01-25 12:04:06.256678: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-25 12:04:06.257679: wfastcgi.py 3.0.0 initializing
+2022-01-25 12:04:06.623465: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-25 12:04:06.623465: wfastcgi.py 3.0.0 initialized
+2022-01-25 12:56:07.506993: wfastcgi.py 3.0.0 started
+2022-01-25 12:56:07.522613: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-25 12:56:07.522613: wfastcgi.py 3.0.0 initializing
+2022-01-25 12:56:07.866366: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-25 12:56:07.866366: wfastcgi.py 3.0.0 initialized
+2022-01-25 13:08:13.851210: wfastcgi.py 3.0.0 started
+2022-01-25 13:08:13.851210: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-25 13:08:13.866837: wfastcgi.py 3.0.0 initializing
+2022-01-25 13:08:14.226210: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-25 13:08:14.257471: wfastcgi.py 3.0.0 initialized
+2022-01-25 13:13:28.901502: wfastcgi.py 3.0.0 started
+2022-01-25 13:13:28.901502: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-25 13:13:28.901502: wfastcgi.py 3.0.0 initializing
+2022-01-25 13:13:29.268109: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-25 13:13:29.269108: wfastcgi.py 3.0.0 initialized
+2022-01-27 07:02:14.873002: wfastcgi.py 3.0.0 started
+2022-01-27 07:02:14.874006: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-27 07:02:14.875010: wfastcgi.py 3.0.0 initializing
+2022-01-27 07:02:15.236558: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-27 07:02:15.236558: wfastcgi.py 3.0.0 initialized
+2022-01-27 07:20:53.186441: wfastcgi.py 3.0.0 started
+2022-01-27 07:20:53.186441: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-27 07:20:53.186441: wfastcgi.py 3.0.0 initializing
+2022-01-27 07:20:53.548729: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-27 07:20:53.548729: wfastcgi.py 3.0.0 initialized
+2022-01-27 07:31:21.598623: wfastcgi.py 3.0.0 started
+2022-01-27 07:31:21.598623: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-27 07:31:21.614209: wfastcgi.py 3.0.0 initializing
+2022-01-27 07:31:21.973592: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-27 07:31:21.973592: wfastcgi.py 3.0.0 initialized
+2022-01-27 10:28:35.438716: wfastcgi.py 3.0.0 started
+2022-01-27 10:28:35.439719: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-27 10:28:35.440720: wfastcgi.py 3.0.0 initializing
+2022-01-27 10:28:35.807295: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-27 10:28:35.808302: wfastcgi.py 3.0.0 initialized
+2022-01-27 10:41:25.680055: wfastcgi.py 3.0.0 started
+2022-01-27 10:41:25.680055: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-27 10:41:25.680055: wfastcgi.py 3.0.0 initializing
+2022-01-27 10:41:26.039089: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-27 10:41:26.039089: wfastcgi.py 3.0.0 initialized
+2022-01-27 11:11:45.659548: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2022-01-27 11:11:45.659548: Running on_exit tasks
+2022-01-27 11:11:45.660548: wfastcgi.py 3.0.0 closed
+2022-01-27 11:18:50.886540: wfastcgi.py 3.0.0 started
+2022-01-27 11:18:50.888547: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-27 11:18:50.890550: wfastcgi.py 3.0.0 initializing
+2022-01-27 11:18:51.265549: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-27 11:18:51.266548: wfastcgi.py 3.0.0 initialized
+2022-01-27 14:41:27.536212: wfastcgi.py 3.0.0 started
+2022-01-27 14:41:27.537179: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-27 14:41:27.538217: wfastcgi.py 3.0.0 initializing
+2022-01-27 14:41:27.906216: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-27 14:41:27.907216: wfastcgi.py 3.0.0 initialized
+2022-01-27 14:49:02.448204: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2022-01-27 14:49:02.449218: Running on_exit tasks
+2022-01-27 14:49:02.449218: wfastcgi.py 3.0.0 closed
+2022-01-27 14:53:55.277217: wfastcgi.py 3.0.0 started
+2022-01-27 14:53:55.278217: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-27 14:53:55.279217: wfastcgi.py 3.0.0 initializing
+2022-01-27 14:53:55.641217: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-27 14:53:55.642221: wfastcgi.py 3.0.0 initialized
+2022-01-27 14:59:10.190218: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2022-01-27 14:59:10.190218: Running on_exit tasks
+2022-01-27 14:59:10.191219: wfastcgi.py 3.0.0 closed
+2022-01-27 15:04:25.123220: wfastcgi.py 3.0.0 started
+2022-01-27 15:04:25.123220: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-27 15:04:25.124179: wfastcgi.py 3.0.0 initializing
+2022-01-27 15:04:25.483221: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-27 15:04:25.484217: wfastcgi.py 3.0.0 initialized
+2022-01-27 15:09:40.031217: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2022-01-27 15:09:40.032220: Running on_exit tasks
+2022-01-27 15:09:40.033219: wfastcgi.py 3.0.0 closed
+2022-01-28 04:38:57.454218: wfastcgi.py 3.0.0 started
+2022-01-28 04:38:57.455219: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-28 04:38:57.456214: wfastcgi.py 3.0.0 initializing
+2022-01-28 04:38:58.064216: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-28 04:38:58.065216: wfastcgi.py 3.0.0 initialized
+2022-01-28 04:45:22.268216: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2022-01-28 04:45:22.269217: Running on_exit tasks
+2022-01-28 04:45:22.270218: wfastcgi.py 3.0.0 closed
+2022-01-28 05:43:59.980218: wfastcgi.py 3.0.0 started
+2022-01-28 05:43:59.981219: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-28 05:43:59.982218: wfastcgi.py 3.0.0 initializing
+2022-01-28 05:44:00.365220: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-28 05:44:00.366220: wfastcgi.py 3.0.0 initialized
+2022-01-28 05:49:14.888184: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2022-01-28 05:49:14.888184: Running on_exit tasks
+2022-01-28 05:49:14.889219: wfastcgi.py 3.0.0 closed
+2022-01-28 06:19:21.240557: wfastcgi.py 3.0.0 started
+2022-01-28 06:19:21.240557: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-28 06:19:21.241565: wfastcgi.py 3.0.0 initializing
+2022-01-28 06:19:21.617583: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-28 06:19:21.618538: wfastcgi.py 3.0.0 initialized
+2022-01-28 06:24:36.149566: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2022-01-28 06:24:36.149566: Running on_exit tasks
+2022-01-28 06:24:36.150569: wfastcgi.py 3.0.0 closed
+2022-01-28 06:33:07.395565: wfastcgi.py 3.0.0 started
+2022-01-28 06:33:07.396564: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-28 06:33:07.397570: wfastcgi.py 3.0.0 initializing
+2022-01-28 06:33:07.773567: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-28 06:33:07.774568: wfastcgi.py 3.0.0 initialized
+2022-01-28 06:44:58.812569: wfastcgi.py 3.0.0 started
+2022-01-28 06:44:58.813569: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-28 06:44:58.814567: wfastcgi.py 3.0.0 initializing
+2022-01-28 06:44:59.203528: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-28 06:44:59.204549: wfastcgi.py 3.0.0 initialized
+2022-01-28 09:41:59.586563: wfastcgi.py 3.0.0 started
+2022-01-28 09:41:59.587514: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-28 09:41:59.588568: wfastcgi.py 3.0.0 initializing
+2022-01-28 09:41:59.958564: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-28 09:41:59.959563: wfastcgi.py 3.0.0 initialized
+2022-01-30 06:31:54.745561: wfastcgi.py 3.0.0 started
+2022-01-30 06:31:54.746563: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-30 06:31:54.747567: wfastcgi.py 3.0.0 initializing
+2022-01-30 06:31:55.371558: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-30 06:31:55.372564: wfastcgi.py 3.0.0 initialized
+2022-01-31 03:53:24.439562: wfastcgi.py 3.0.0 started
+2022-01-31 03:53:24.439562: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-31 03:53:24.440565: wfastcgi.py 3.0.0 initializing
+2022-01-31 03:53:25.062568: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-31 03:53:25.063566: wfastcgi.py 3.0.0 initialized
+2022-01-31 04:08:39.122566: wfastcgi.py 3.0.0 started
+2022-01-31 04:08:39.123540: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-31 04:08:39.124566: wfastcgi.py 3.0.0 initializing
+2022-01-31 04:08:39.491564: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-31 04:08:39.492565: wfastcgi.py 3.0.0 initialized
+2022-01-31 06:26:49.918567: wfastcgi.py 3.0.0 started
+2022-01-31 06:26:49.918567: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-31 06:26:49.920535: wfastcgi.py 3.0.0 initializing
+2022-01-31 06:26:50.298568: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-31 06:26:50.299567: wfastcgi.py 3.0.0 initialized
+2022-01-31 07:51:32.477244: wfastcgi.py 3.0.0 started
+2022-01-31 07:51:32.478234: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-31 07:51:32.479201: wfastcgi.py 3.0.0 initializing
+2022-01-31 07:51:32.856234: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-31 07:51:32.857236: wfastcgi.py 3.0.0 initialized
+2022-01-31 09:52:20.409905: wfastcgi.py 3.0.0 started
+2022-01-31 09:52:20.410906: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-01-31 09:52:20.411913: wfastcgi.py 3.0.0 initializing
+2022-01-31 09:52:21.043908: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-01-31 09:52:21.044912: wfastcgi.py 3.0.0 initialized
+2022-02-01 03:59:23.836131: wfastcgi.py 3.0.0 started
+2022-02-01 03:59:23.836131: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-01 03:59:23.836131: wfastcgi.py 3.0.0 initializing
+2022-02-01 03:59:24.714616: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-01 03:59:24.715614: wfastcgi.py 3.0.0 initialized
+2022-02-01 04:09:18.716374: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2022-02-01 04:09:18.716374: Running on_exit tasks
+2022-02-01 04:09:18.717375: wfastcgi.py 3.0.0 closed
+2022-02-04 06:57:41.452908: wfastcgi.py 3.0.0 started
+2022-02-04 06:57:41.452908: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-04 06:57:41.452908: wfastcgi.py 3.0.0 initializing
+2022-02-04 06:57:41.874782: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-04 06:57:41.874782: wfastcgi.py 3.0.0 initialized
+2022-02-04 07:20:22.798922: wfastcgi.py 3.0.0 started
+2022-02-04 07:20:22.799928: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-04 07:20:22.800930: wfastcgi.py 3.0.0 initializing
+2022-02-04 07:20:23.170590: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-04 07:20:23.170590: wfastcgi.py 3.0.0 initialized
+2022-02-04 07:27:21.313335: wfastcgi.py 3.0.0 started
+2022-02-04 07:27:21.313335: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-04 07:27:21.313335: wfastcgi.py 3.0.0 initializing
+2022-02-04 07:27:21.672704: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-04 07:27:21.672704: wfastcgi.py 3.0.0 initialized
+2022-02-04 07:35:42.853336: wfastcgi.py 3.0.0 started
+2022-02-04 07:35:42.854312: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-04 07:35:42.855341: wfastcgi.py 3.0.0 initializing
+2022-02-04 07:35:43.224164: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-04 07:35:43.239780: wfastcgi.py 3.0.0 initialized
+2022-02-04 07:43:48.283466: wfastcgi.py 3.0.0 started
+2022-02-04 07:43:48.284472: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-04 07:43:48.285473: wfastcgi.py 3.0.0 initializing
+2022-02-04 07:43:48.652563: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-04 07:43:48.652563: wfastcgi.py 3.0.0 initialized
+2022-02-04 08:22:17.239225: wfastcgi.py 3.0.0 started
+2022-02-04 08:22:17.239225: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-04 08:22:17.241221: wfastcgi.py 3.0.0 initializing
+2022-02-04 08:22:17.334217: wfastcgi.py 3.0.0 started
+2022-02-04 08:22:17.334217: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-04 08:22:17.339220: wfastcgi.py 3.0.0 initializing
+2022-02-04 08:22:17.368219: wfastcgi.py 3.0.0 started
+2022-02-04 08:22:17.369220: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-04 08:22:17.371222: wfastcgi.py 3.0.0 initializing
+2022-02-04 08:22:17.397220: wfastcgi.py 3.0.0 started
+2022-02-04 08:22:17.399220: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-04 08:22:17.400220: wfastcgi.py 3.0.0 initializing
+2022-02-04 08:22:17.680221: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-04 08:22:17.681227: wfastcgi.py 3.0.0 initialized
+2022-02-04 08:22:17.707256: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-04 08:22:17.708222: wfastcgi.py 3.0.0 initialized
+2022-02-04 08:22:17.802222: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-04 08:22:17.807220: wfastcgi.py 3.0.0 initialized
+2022-02-04 08:22:17.848223: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-04 08:22:17.849222: wfastcgi.py 3.0.0 initialized
+2022-02-04 08:41:54.183167: wfastcgi.py 3.0.0 started
+2022-02-04 08:41:54.184168: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-04 08:41:54.185128: wfastcgi.py 3.0.0 initializing
+2022-02-04 08:41:54.542434: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-04 08:41:54.542434: wfastcgi.py 3.0.0 initialized
+2022-02-07 10:53:07.102196: wfastcgi.py 3.0.0 started
+2022-02-07 10:53:07.102196: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-07 10:53:07.102196: wfastcgi.py 3.0.0 initializing
+2022-02-07 10:53:09.183470: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-07 10:53:09.183470: wfastcgi.py 3.0.0 initialized
+2022-02-07 11:10:25.303430: wfastcgi.py 3.0.0 started
+2022-02-07 11:10:25.303430: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-07 11:10:25.304432: wfastcgi.py 3.0.0 initializing
+2022-02-07 11:10:26.205428: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-07 11:10:26.206427: wfastcgi.py 3.0.0 initialized
+2022-02-07 11:24:54.123983: wfastcgi.py 3.0.0 started
+2022-02-07 11:24:54.123983: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-07 11:24:54.123983: wfastcgi.py 3.0.0 initializing
+2022-02-07 11:24:54.975999: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-07 11:24:54.991626: wfastcgi.py 3.0.0 initialized
+2022-02-07 11:32:29.031963: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2022-02-07 11:32:29.031963: Running on_exit tasks
+2022-02-07 11:32:29.031963: wfastcgi.py 3.0.0 closed
+2022-02-07 11:42:54.429340: wfastcgi.py 3.0.0 started
+2022-02-07 11:42:54.429340: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-07 11:42:54.429340: wfastcgi.py 3.0.0 initializing
+2022-02-07 11:42:55.288472: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-07 11:42:55.289475: wfastcgi.py 3.0.0 initialized
+2022-02-07 11:44:54.729827: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-07 11:44:54.729827: Running on_exit tasks
+2022-02-08 07:58:14.296677: wfastcgi.py 3.0.0 started
+2022-02-08 07:58:14.296677: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-08 07:58:14.296677: wfastcgi.py 3.0.0 initializing
+2022-02-08 07:58:15.187250: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-08 07:58:15.187250: wfastcgi.py 3.0.0 initialized
+2022-02-08 08:09:29.625715: wfastcgi.py 3.0.0 started
+2022-02-08 08:09:29.625715: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-08 08:09:29.625715: wfastcgi.py 3.0.0 initializing
+2022-02-08 08:09:30.531959: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-08 08:09:30.531959: wfastcgi.py 3.0.0 initialized
+2022-02-10 08:18:23.678160: wfastcgi.py 3.0.0 started
+2022-02-10 08:18:23.678160: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 08:18:23.678160: wfastcgi.py 3.0.0 initializing
+2022-02-10 08:18:24.630818: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 08:18:24.630818: wfastcgi.py 3.0.0 initialized
+2022-02-10 08:20:00.272891: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-10 08:20:00.272891: Running on_exit tasks
+2022-02-10 08:20:15.469768: wfastcgi.py 3.0.0 started
+2022-02-10 08:20:15.469768: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 08:20:15.469768: wfastcgi.py 3.0.0 initializing
+2022-02-10 08:20:16.350037: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 08:20:16.350037: wfastcgi.py 3.0.0 initialized
+2022-02-10 08:41:56.873896: wfastcgi.py 3.0.0 started
+2022-02-10 08:41:56.873896: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 08:41:56.873896: wfastcgi.py 3.0.0 initializing
+2022-02-10 08:41:57.764247: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 08:41:57.764247: wfastcgi.py 3.0.0 initialized
+2022-02-10 08:42:36.158229: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-10 08:42:36.158229: Running on_exit tasks
+2022-02-10 08:42:55.516066: wfastcgi.py 3.0.0 started
+2022-02-10 08:42:55.516066: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 08:42:55.516066: wfastcgi.py 3.0.0 initializing
+2022-02-10 08:42:56.397365: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 08:42:56.397365: wfastcgi.py 3.0.0 initialized
+2022-02-10 08:45:13.501852: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-10 08:45:13.501852: Running on_exit tasks
+2022-02-10 08:45:33.010465: wfastcgi.py 3.0.0 started
+2022-02-10 08:45:33.010465: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 08:45:33.010465: wfastcgi.py 3.0.0 initializing
+2022-02-10 08:45:33.918855: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 08:45:33.918855: wfastcgi.py 3.0.0 initialized
+2022-02-10 08:48:51.966140: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-10 08:48:51.966140: Running on_exit tasks
+2022-02-10 08:49:23.550630: wfastcgi.py 3.0.0 started
+2022-02-10 08:49:23.550630: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 08:49:23.550630: wfastcgi.py 3.0.0 initializing
+2022-02-10 08:49:24.425629: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 08:49:24.425629: wfastcgi.py 3.0.0 initialized
+2022-02-10 09:01:03.852911: wfastcgi.py 3.0.0 started
+2022-02-10 09:01:03.852911: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 09:01:03.852911: wfastcgi.py 3.0.0 initializing
+2022-02-10 09:01:04.729735: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 09:01:04.729735: wfastcgi.py 3.0.0 initialized
+2022-02-10 09:26:51.773254: wfastcgi.py 3.0.0 started
+2022-02-10 09:26:51.773254: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 09:26:51.773254: wfastcgi.py 3.0.0 initializing
+2022-02-10 09:26:52.648615: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 09:26:52.648615: wfastcgi.py 3.0.0 initialized
+2022-02-10 09:28:09.761288: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-10 09:28:09.761288: Running on_exit tasks
+2022-02-10 09:28:40.776469: wfastcgi.py 3.0.0 started
+2022-02-10 09:28:40.776469: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 09:28:40.776469: wfastcgi.py 3.0.0 initializing
+2022-02-10 09:28:41.667098: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 09:28:41.667098: wfastcgi.py 3.0.0 initialized
+2022-02-10 09:29:12.320572: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-10 09:29:12.320572: Running on_exit tasks
+2022-02-10 09:29:28.681834: wfastcgi.py 3.0.0 started
+2022-02-10 09:29:28.681834: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 09:29:28.681834: wfastcgi.py 3.0.0 initializing
+2022-02-10 09:29:29.563480: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 09:29:29.563480: wfastcgi.py 3.0.0 initialized
+2022-02-10 09:30:59.268622: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-10 09:30:59.268622: Running on_exit tasks
+2022-02-10 10:12:51.059406: wfastcgi.py 3.0.0 started
+2022-02-10 10:12:51.059406: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 10:12:51.059406: wfastcgi.py 3.0.0 initializing
+2022-02-10 10:12:51.964338: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 10:12:51.964338: wfastcgi.py 3.0.0 initialized
+2022-02-10 10:16:34.640999: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-10 10:16:34.640999: Running on_exit tasks
+2022-02-10 10:22:06.922857: wfastcgi.py 3.0.0 started
+2022-02-10 10:22:06.922857: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 10:22:06.922857: wfastcgi.py 3.0.0 initializing
+2022-02-10 10:22:07.797858: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 10:22:07.797858: wfastcgi.py 3.0.0 initialized
+2022-02-10 10:33:07.780675: wfastcgi.py 3.0.0 started
+2022-02-10 10:33:07.780675: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 10:33:07.780675: wfastcgi.py 3.0.0 initializing
+2022-02-10 10:33:08.640040: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 10:33:08.640040: wfastcgi.py 3.0.0 initialized
+2022-02-10 10:34:09.143757: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-10 10:34:09.143757: Running on_exit tasks
+2022-02-10 10:35:14.824100: wfastcgi.py 3.0.0 started
+2022-02-10 10:35:14.824100: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 10:35:14.824100: wfastcgi.py 3.0.0 initializing
+2022-02-10 10:35:15.683468: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 10:35:15.683468: wfastcgi.py 3.0.0 initialized
+2022-02-10 10:42:33.124684: wfastcgi.py 3.0.0 started
+2022-02-10 10:42:33.124684: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 10:42:33.124684: wfastcgi.py 3.0.0 initializing
+2022-02-10 10:42:33.997483: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 10:42:33.997483: wfastcgi.py 3.0.0 initialized
+2022-02-10 10:43:19.409031: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-10 10:43:19.409031: Running on_exit tasks
+2022-02-10 10:43:37.818548: wfastcgi.py 3.0.0 started
+2022-02-10 10:43:37.818548: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 10:43:37.818548: wfastcgi.py 3.0.0 initializing
+2022-02-10 10:43:38.693566: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 10:43:38.693566: wfastcgi.py 3.0.0 initialized
+2022-02-10 10:44:11.507631: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-10 10:44:11.507631: Running on_exit tasks
+2022-02-10 10:50:21.909643: wfastcgi.py 3.0.0 started
+2022-02-10 10:50:21.909643: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 10:50:21.909643: wfastcgi.py 3.0.0 initializing
+2022-02-10 10:50:22.793881: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 10:50:22.793881: wfastcgi.py 3.0.0 initialized
+2022-02-10 11:08:01.204217: wfastcgi.py 3.0.0 started
+2022-02-10 11:08:01.204217: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 11:08:01.204217: wfastcgi.py 3.0.0 initializing
+2022-02-10 11:08:02.139049: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 11:08:02.139049: wfastcgi.py 3.0.0 initialized
+2022-02-10 11:09:30.563242: wfastcgi.py 3.0.0 started
+2022-02-10 11:09:30.563242: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 11:09:30.563242: wfastcgi.py 3.0.0 initializing
+2022-02-10 11:09:31.426407: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 11:09:31.426407: wfastcgi.py 3.0.0 initialized
+2022-02-10 12:32:17.041732: wfastcgi.py 3.0.0 started
+2022-02-10 12:32:17.041732: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 12:32:17.041732: wfastcgi.py 3.0.0 initializing
+2022-02-10 12:32:17.901099: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 12:32:17.901099: wfastcgi.py 3.0.0 initialized
+2022-02-10 12:40:21.963820: wfastcgi.py 3.0.0 started
+2022-02-10 12:40:21.963820: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 12:40:21.963820: wfastcgi.py 3.0.0 initializing
+2022-02-10 12:40:22.823191: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 12:40:22.823191: wfastcgi.py 3.0.0 initialized
+2022-02-10 12:41:17.041269: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-10 12:41:17.041269: Running on_exit tasks
+2022-02-10 12:48:32.723043: wfastcgi.py 3.0.0 started
+2022-02-10 12:48:32.723043: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-10 12:48:32.723043: wfastcgi.py 3.0.0 initializing
+2022-02-10 12:48:33.613674: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-10 12:48:33.613674: wfastcgi.py 3.0.0 initialized
+2022-02-14 06:09:01.183703: wfastcgi.py 3.0.0 started
+2022-02-14 06:09:01.183703: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-14 06:09:01.199290: wfastcgi.py 3.0.0 initializing
+2022-02-14 06:09:02.089920: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-14 06:09:02.089920: wfastcgi.py 3.0.0 initialized
+2022-02-14 06:25:54.764494: wfastcgi.py 3.0.0 started
+2022-02-14 06:25:54.764494: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-14 06:25:54.764494: wfastcgi.py 3.0.0 initializing
+2022-02-14 06:25:55.623869: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-14 06:25:55.623869: wfastcgi.py 3.0.0 initialized
+2022-02-14 06:26:16.451997: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-14 06:26:16.451997: Running on_exit tasks
+2022-02-16 08:12:16.168788: wfastcgi.py 3.0.0 started
+2022-02-16 08:12:16.168788: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-16 08:12:16.168788: wfastcgi.py 3.0.0 initializing
+2022-02-16 08:12:17.090664: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-16 08:12:17.090664: wfastcgi.py 3.0.0 initialized
+2022-02-16 08:15:51.168901: wfastcgi.py exiting because web.config has changed, matching .*((\.py)|(\.config))$
+2022-02-16 08:15:51.168901: Running on_exit tasks
+2022-02-16 08:24:00.167287: wfastcgi.py 3.0.0 started
+2022-02-16 08:24:00.167287: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-16 08:24:00.182873: wfastcgi.py 3.0.0 initializing
+2022-02-16 08:24:01.073523: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-16 08:24:01.073523: wfastcgi.py 3.0.0 initialized
+2022-02-16 08:31:16.644566: wfastcgi.py 3.0.0 started
+2022-02-16 08:31:16.644566: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-16 08:31:16.644566: wfastcgi.py 3.0.0 initializing
+2022-02-16 08:31:17.519615: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-16 08:31:17.519615: wfastcgi.py 3.0.0 initialized
+2022-02-16 09:07:05.831065: wfastcgi.py 3.0.0 started
+2022-02-16 09:07:05.831065: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-16 09:07:05.831065: wfastcgi.py 3.0.0 initializing
+2022-02-16 09:07:06.706058: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-16 09:07:06.706058: wfastcgi.py 3.0.0 initialized
+2022-02-17 06:39:45.244948: wfastcgi.py 3.0.0 started
+2022-02-17 06:39:45.244948: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 06:39:45.244948: wfastcgi.py 3.0.0 initializing
+2022-02-17 06:39:47.213636: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 06:39:47.213636: wfastcgi.py 3.0.0 initialized
+2022-02-17 06:47:15.627690: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-17 06:47:15.627690: Running on_exit tasks
+2022-02-17 06:49:53.297125: wfastcgi.py 3.0.0 started
+2022-02-17 06:49:53.297125: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 06:49:53.297125: wfastcgi.py 3.0.0 initializing
+2022-02-17 06:49:54.187758: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 06:49:54.187758: wfastcgi.py 3.0.0 initialized
+2022-02-17 06:53:23.682125: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-17 06:53:23.682125: Running on_exit tasks
+2022-02-17 06:53:43.918025: wfastcgi.py 3.0.0 started
+2022-02-17 06:53:43.918025: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 06:53:43.918025: wfastcgi.py 3.0.0 initializing
+2022-02-17 06:53:44.808577: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 06:53:44.808577: wfastcgi.py 3.0.0 initialized
+2022-02-17 07:10:00.451288: wfastcgi.py 3.0.0 started
+2022-02-17 07:10:00.451288: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 07:10:00.451288: wfastcgi.py 3.0.0 initializing
+2022-02-17 07:10:01.357540: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 07:10:01.357540: wfastcgi.py 3.0.0 initialized
+2022-02-17 07:11:21.468892: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-17 07:11:21.468892: Running on_exit tasks
+2022-02-17 07:11:28.328266: wfastcgi.py 3.0.0 started
+2022-02-17 07:11:28.328266: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 07:11:28.328266: wfastcgi.py 3.0.0 initializing
+2022-02-17 07:11:29.203244: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 07:11:29.203244: wfastcgi.py 3.0.0 initialized
+2022-02-17 07:13:47.246719: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-17 07:13:47.246719: Running on_exit tasks
+2022-02-17 07:15:43.561895: wfastcgi.py 3.0.0 started
+2022-02-17 07:15:43.561895: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 07:15:43.561895: wfastcgi.py 3.0.0 initializing
+2022-02-17 07:15:44.438154: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 07:15:44.438154: wfastcgi.py 3.0.0 initialized
+2022-02-17 07:16:14.772530: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-17 07:16:14.772530: Running on_exit tasks
+2022-02-17 07:16:23.370731: wfastcgi.py 3.0.0 started
+2022-02-17 07:16:23.370731: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 07:16:23.370731: wfastcgi.py 3.0.0 initializing
+2022-02-17 07:16:24.245734: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 07:16:24.245734: wfastcgi.py 3.0.0 initialized
+2022-02-17 07:24:41.400702: wfastcgi.py 3.0.0 started
+2022-02-17 07:24:41.400702: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 07:24:41.400702: wfastcgi.py 3.0.0 initializing
+2022-02-17 07:24:42.275671: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 07:24:42.275671: wfastcgi.py 3.0.0 initialized
+2022-02-17 07:29:52.242885: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-17 07:29:52.242885: Running on_exit tasks
+2022-02-17 07:38:25.146011: wfastcgi.py 3.0.0 started
+2022-02-17 07:38:25.146011: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 07:38:25.146011: wfastcgi.py 3.0.0 initializing
+2022-02-17 07:38:26.052300: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 07:38:26.052300: wfastcgi.py 3.0.0 initialized
+2022-02-17 07:39:03.212128: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-17 07:39:03.212128: Running on_exit tasks
+2022-02-17 07:39:20.673974: wfastcgi.py 3.0.0 started
+2022-02-17 07:39:20.673974: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 07:39:20.673974: wfastcgi.py 3.0.0 initializing
+2022-02-17 07:39:21.580209: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 07:39:21.580209: wfastcgi.py 3.0.0 initialized
+2022-02-17 07:40:29.368111: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-17 07:40:29.368111: Running on_exit tasks
+2022-02-17 07:48:29.371930: wfastcgi.py 3.0.0 started
+2022-02-17 07:48:29.371930: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 07:48:29.371930: wfastcgi.py 3.0.0 initializing
+2022-02-17 07:48:30.246928: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 07:48:30.246928: wfastcgi.py 3.0.0 initialized
+2022-02-17 08:00:09.286592: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2022-02-17 08:00:09.286592: Running on_exit tasks
+2022-02-17 08:00:09.286592: wfastcgi.py 3.0.0 closed
+2022-02-17 08:12:52.900612: wfastcgi.py 3.0.0 started
+2022-02-17 08:12:52.900612: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 08:12:52.900612: wfastcgi.py 3.0.0 initializing
+2022-02-17 08:12:53.775572: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 08:12:53.775572: wfastcgi.py 3.0.0 initialized
+2022-02-17 13:49:33.076428: wfastcgi.py 3.0.0 started
+2022-02-17 13:49:33.077422: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 13:49:33.078426: wfastcgi.py 3.0.0 initializing
+2022-02-17 13:49:33.496421: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File ".\file_upload.py", line 16, in <module>
+    currentDateTime = datetime.now()
+NameError: name 'datetime' is not defined
+
+
+StdOut: 
+
+StdErr: 
+2022-02-17 13:49:33.497427: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File ".\file_upload.py", line 16, in <module>
+    currentDateTime = datetime.now()
+NameError: name 'datetime' is not defined
+2022-02-17 13:49:33.498428: Running on_exit tasks
+2022-02-17 13:49:33.499426: wfastcgi.py 3.0.0 closed
+2022-02-17 13:50:07.010306: wfastcgi.py 3.0.0 started
+2022-02-17 13:50:07.011305: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 13:50:07.011305: wfastcgi.py 3.0.0 initializing
+2022-02-17 13:50:07.428297: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 13:50:07.429305: wfastcgi.py 3.0.0 initialized
+2022-02-17 13:50:47.582552: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-17 13:50:47.582552: Running on_exit tasks
+2022-02-17 13:50:53.772070: wfastcgi.py 3.0.0 started
+2022-02-17 13:50:53.773070: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 13:50:53.774072: wfastcgi.py 3.0.0 initializing
+2022-02-17 13:50:54.198072: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 13:50:54.199071: wfastcgi.py 3.0.0 initialized
+2022-02-17 13:51:40.996886: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-17 13:51:40.996886: Running on_exit tasks
+2022-02-17 13:52:15.573343: wfastcgi.py 3.0.0 started
+2022-02-17 13:52:15.573343: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 13:52:15.574345: wfastcgi.py 3.0.0 initializing
+2022-02-17 13:52:15.980344: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 13:52:15.981342: wfastcgi.py 3.0.0 initialized
+2022-02-17 13:52:56.077503: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-17 13:52:56.077503: Running on_exit tasks
+2022-02-17 14:04:51.095127: wfastcgi.py 3.0.0 started
+2022-02-17 14:04:51.096092: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 14:04:51.097131: wfastcgi.py 3.0.0 initializing
+2022-02-17 14:04:51.525130: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 14:04:51.526123: wfastcgi.py 3.0.0 initialized
+2022-02-17 14:06:26.362969: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-17 14:06:26.362969: Running on_exit tasks
+2022-02-17 14:09:44.123163: wfastcgi.py 3.0.0 started
+2022-02-17 14:09:44.123163: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 14:09:44.138768: wfastcgi.py 3.0.0 initializing
+2022-02-17 14:09:45.045047: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 14:09:45.045047: wfastcgi.py 3.0.0 initialized
+2022-02-17 14:13:50.776929: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-17 14:13:50.776929: Running on_exit tasks
+2022-02-17 14:16:34.764339: wfastcgi.py 3.0.0 started
+2022-02-17 14:16:34.764339: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 14:16:34.765339: wfastcgi.py 3.0.0 initializing
+2022-02-17 14:16:35.202343: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 14:16:35.204345: wfastcgi.py 3.0.0 initialized
+2022-02-17 14:17:57.980755: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-17 14:17:57.996364: Running on_exit tasks
+2022-02-17 14:18:06.262008: wfastcgi.py 3.0.0 started
+2022-02-17 14:18:06.262008: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 14:18:06.277609: wfastcgi.py 3.0.0 initializing
+2022-02-17 14:18:06.668258: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 14:18:06.668258: wfastcgi.py 3.0.0 initialized
+2022-02-17 14:20:19.083632: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-17 14:20:19.083632: Running on_exit tasks
+2022-02-17 14:20:42.057582: wfastcgi.py 3.0.0 started
+2022-02-17 14:20:42.058566: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 14:20:42.059537: wfastcgi.py 3.0.0 initializing
+2022-02-17 14:20:43.002583: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 14:20:43.003578: wfastcgi.py 3.0.0 initialized
+2022-02-17 14:22:07.032942: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-17 14:22:07.032942: Running on_exit tasks
+2022-02-17 14:22:19.907934: wfastcgi.py 3.0.0 started
+2022-02-17 14:22:19.907934: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 14:22:19.907934: wfastcgi.py 3.0.0 initializing
+2022-02-17 14:22:20.298587: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 14:22:20.298587: wfastcgi.py 3.0.0 initialized
+2022-02-17 14:23:54.806346: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-17 14:23:54.806346: Running on_exit tasks
+2022-02-17 14:24:04.622951: wfastcgi.py 3.0.0 started
+2022-02-17 14:24:04.622951: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 14:24:04.622951: wfastcgi.py 3.0.0 initializing
+2022-02-17 14:24:04.638579: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File ".\file_upload.py", line 183
+    await func1()
+    ^
+SyntaxError: 'await' outside async function
+
+
+StdOut: 
+
+StdErr: 
+2022-02-17 14:24:04.638579: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File ".\file_upload.py", line 183
+    await func1()
+    ^
+SyntaxError: 'await' outside async function
+2022-02-17 14:24:04.638579: Running on_exit tasks
+2022-02-17 14:24:04.638579: wfastcgi.py 3.0.0 closed
+2022-02-17 14:24:30.076083: wfastcgi.py 3.0.0 started
+2022-02-17 14:24:30.076083: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 14:24:30.076083: wfastcgi.py 3.0.0 initializing
+2022-02-17 14:24:30.076083: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File ".\file_upload.py", line 183
+    await func1()
+    ^
+SyntaxError: 'await' outside async function
+
+
+StdOut: 
+
+StdErr: 
+2022-02-17 14:24:30.076083: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File ".\file_upload.py", line 183
+    await func1()
+    ^
+SyntaxError: 'await' outside async function
+2022-02-17 14:24:30.076083: Running on_exit tasks
+2022-02-17 14:24:30.076083: wfastcgi.py 3.0.0 closed
+2022-02-17 14:24:31.810453: wfastcgi.py 3.0.0 started
+2022-02-17 14:24:31.810453: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 14:24:31.810453: wfastcgi.py 3.0.0 initializing
+2022-02-17 14:24:31.826082: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File ".\file_upload.py", line 183
+    await func1()
+    ^
+SyntaxError: 'await' outside async function
+
+
+StdOut: 
+
+StdErr: 
+2022-02-17 14:24:31.826082: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File ".\file_upload.py", line 183
+    await func1()
+    ^
+SyntaxError: 'await' outside async function
+2022-02-17 14:24:31.826082: Running on_exit tasks
+2022-02-17 14:24:31.826082: wfastcgi.py 3.0.0 closed
+2022-02-17 15:30:19.819992: wfastcgi.py 3.0.0 started
+2022-02-17 15:30:19.819992: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 15:30:19.819992: wfastcgi.py 3.0.0 initializing
+2022-02-17 15:30:19.819992: Error occurred while reading WSGI handler:
+
+Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File ".\file_upload.py", line 179
+    def sync_blocking():
+    ^
+IndentationError: unexpected indent
+
+
+StdOut: 
+
+StdErr: 
+2022-02-17 15:30:19.819992: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 791, in main
+    env, handler = read_wsgi_handler(response.physical_path)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 633, in read_wsgi_handler
+    handler = get_wsgi_handler(os.getenv("WSGI_HANDLER"))
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 600, in get_wsgi_handler
+    handler = __import__(module_name, fromlist=[name_list[0][0]])
+  File ".\file_upload.py", line 179
+    def sync_blocking():
+    ^
+IndentationError: unexpected indent
+2022-02-17 15:30:19.819992: Running on_exit tasks
+2022-02-17 15:30:19.835615: wfastcgi.py 3.0.0 closed
+2022-02-17 15:34:13.427423: wfastcgi.py 3.0.0 started
+2022-02-17 15:34:13.427423: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 15:34:13.427423: wfastcgi.py 3.0.0 initializing
+2022-02-17 15:34:13.818049: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 15:34:13.818049: wfastcgi.py 3.0.0 initialized
+2022-02-17 15:34:54.208706: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-17 15:34:54.208706: Running on_exit tasks
+2022-02-17 15:41:40.443997: wfastcgi.py 3.0.0 started
+2022-02-17 15:41:40.443997: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 15:41:40.443997: wfastcgi.py 3.0.0 initializing
+2022-02-17 15:41:41.350244: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 15:41:41.350244: wfastcgi.py 3.0.0 initialized
+2022-02-17 16:14:53.475449: wfastcgi.py 3.0.0 started
+2022-02-17 16:14:53.475449: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 16:14:53.475449: wfastcgi.py 3.0.0 initializing
+2022-02-17 16:14:54.350433: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 16:14:54.350433: wfastcgi.py 3.0.0 initialized
+2022-02-17 16:15:45.975425: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-17 16:15:45.975425: Running on_exit tasks
+2022-02-17 16:22:36.946202: wfastcgi.py 3.0.0 started
+2022-02-17 16:22:36.946202: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-17 16:22:36.946202: wfastcgi.py 3.0.0 initializing
+2022-02-17 16:22:37.836813: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-17 16:22:37.836813: wfastcgi.py 3.0.0 initialized
+2022-02-17 16:24:26.936461: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-17 16:24:26.937457: Running on_exit tasks
+2022-02-19 12:12:57.329043: wfastcgi.py 3.0.0 started
+2022-02-19 12:12:57.329043: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-19 12:12:57.329043: wfastcgi.py 3.0.0 initializing
+2022-02-19 12:12:59.469667: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-19 12:12:59.469667: wfastcgi.py 3.0.0 initialized
+2022-02-21 15:48:53.497186: wfastcgi.py 3.0.0 started
+2022-02-21 15:48:53.497186: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-21 15:48:53.497186: wfastcgi.py 3.0.0 initializing
+2022-02-21 15:48:55.528543: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-21 15:48:55.528543: wfastcgi.py 3.0.0 initialized
+2022-02-25 08:31:40.589013: wfastcgi.py 3.0.0 started
+2022-02-25 08:31:40.589013: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-25 08:31:40.589013: wfastcgi.py 3.0.0 initializing
+2022-02-25 08:31:41.510902: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-25 08:31:41.510902: wfastcgi.py 3.0.0 initialized
+2022-02-25 09:00:30.960335: wfastcgi.py 3.0.0 started
+2022-02-25 09:00:30.960335: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-25 09:00:30.960335: wfastcgi.py 3.0.0 initializing
+2022-02-25 09:00:31.850953: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-25 09:00:31.850953: wfastcgi.py 3.0.0 initialized
+2022-02-27 10:46:42.036604: wfastcgi.py 3.0.0 started
+2022-02-27 10:46:42.052228: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-27 10:46:42.052228: wfastcgi.py 3.0.0 initializing
+2022-02-27 10:46:44.052230: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-27 10:46:44.052230: wfastcgi.py 3.0.0 initialized
+2022-02-27 10:47:54.319713: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-27 10:47:54.319713: Running on_exit tasks
+2022-02-27 10:48:03.304092: wfastcgi.py 3.0.0 started
+2022-02-27 10:48:03.304092: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-27 10:48:03.304092: wfastcgi.py 3.0.0 initializing
+2022-02-27 10:48:04.179085: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-27 10:48:04.179085: wfastcgi.py 3.0.0 initialized
+2022-02-27 10:48:40.424280: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-02-27 10:48:40.424280: Running on_exit tasks
+2022-02-27 10:52:07.624962: wfastcgi.py 3.0.0 started
+2022-02-27 10:52:07.624962: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-27 10:52:07.624962: wfastcgi.py 3.0.0 initializing
+2022-02-27 10:52:08.515568: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-27 10:52:08.515568: wfastcgi.py 3.0.0 initialized
+2022-02-27 10:59:16.721608: wfastcgi.py 3.0.0 started
+2022-02-27 10:59:16.721608: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-27 10:59:16.721608: wfastcgi.py 3.0.0 initializing
+2022-02-27 10:59:17.612227: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-27 10:59:17.612227: wfastcgi.py 3.0.0 initialized
+2022-02-27 11:25:53.411989: wfastcgi.py 3.0.0 started
+2022-02-27 11:25:53.411989: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-27 11:25:53.411989: wfastcgi.py 3.0.0 initializing
+2022-02-27 11:25:54.318250: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-27 11:25:54.318250: wfastcgi.py 3.0.0 initialized
+2022-02-28 03:50:17.993673: wfastcgi.py 3.0.0 started
+2022-02-28 03:50:17.993673: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-28 03:50:17.993673: wfastcgi.py 3.0.0 initializing
+2022-02-28 03:50:20.026681: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-28 03:50:20.026681: wfastcgi.py 3.0.0 initialized
+2022-02-28 05:00:33.547766: wfastcgi.py 3.0.0 started
+2022-02-28 05:00:33.547766: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-28 05:00:33.547766: wfastcgi.py 3.0.0 initializing
+2022-02-28 05:00:34.454033: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-28 05:00:34.454033: wfastcgi.py 3.0.0 initialized
+2022-02-28 05:16:21.445324: wfastcgi.py 3.0.0 started
+2022-02-28 05:16:21.445324: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-28 05:16:21.445324: wfastcgi.py 3.0.0 initializing
+2022-02-28 05:16:22.335948: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-28 05:16:22.335948: wfastcgi.py 3.0.0 initialized
+2022-02-28 05:19:52.317047: wfastcgi.py 3.0.0 started
+2022-02-28 05:19:52.317047: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-28 05:19:52.317047: wfastcgi.py 3.0.0 initializing
+2022-02-28 05:19:53.192046: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-28 05:19:53.192046: wfastcgi.py 3.0.0 initialized
+2022-02-28 05:29:34.484911: wfastcgi.py 3.0.0 started
+2022-02-28 05:29:34.484911: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-02-28 05:29:34.484911: wfastcgi.py 3.0.0 initializing
+2022-02-28 05:29:35.391175: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-02-28 05:29:35.391175: wfastcgi.py 3.0.0 initialized
+2022-03-01 09:07:06.364704: wfastcgi.py 3.0.0 started
+2022-03-01 09:07:06.364704: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-01 09:07:06.364704: wfastcgi.py 3.0.0 initializing
+2022-03-01 09:07:08.380324: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-01 09:07:08.380324: wfastcgi.py 3.0.0 initialized
+2022-03-01 09:11:51.949200: wfastcgi.py 3.0.0 started
+2022-03-01 09:11:51.949200: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-01 09:11:51.949200: wfastcgi.py 3.0.0 initializing
+2022-03-01 09:11:52.886734: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-01 09:11:52.886734: wfastcgi.py 3.0.0 initialized
+2022-03-01 11:39:17.559717: wfastcgi.py 3.0.0 started
+2022-03-01 11:39:17.559717: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-01 11:39:17.559717: wfastcgi.py 3.0.0 initializing
+2022-03-01 11:39:18.434681: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-01 11:39:18.434681: wfastcgi.py 3.0.0 initialized
+2022-03-01 11:51:32.483769: wfastcgi.py 3.0.0 started
+2022-03-01 11:51:32.483769: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-01 11:51:32.483769: wfastcgi.py 3.0.0 initializing
+2022-03-01 11:51:33.405691: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-01 11:51:33.405691: wfastcgi.py 3.0.0 initialized
+2022-03-01 11:53:50.525718: wfastcgi.py exiting because web.config has changed, matching .*((\.py)|(\.config))$
+2022-03-01 11:53:50.525718: Running on_exit tasks
+2022-03-01 11:56:52.625793: wfastcgi.py 3.0.0 started
+2022-03-01 11:56:52.625793: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-01 11:56:52.625793: wfastcgi.py 3.0.0 initializing
+2022-03-01 11:56:56.641417: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-01 11:56:56.641417: wfastcgi.py 3.0.0 initialized
+2022-03-01 12:30:00.259877: wfastcgi.py 3.0.0 started
+2022-03-01 12:30:00.259877: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-01 12:30:00.260903: wfastcgi.py 3.0.0 initializing
+2022-03-01 12:30:01.554441: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-01 12:30:01.554441: wfastcgi.py 3.0.0 initialized
+2022-03-02 08:30:00.101257: wfastcgi.py 3.0.0 started
+2022-03-02 08:30:00.101257: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-02 08:30:00.101257: wfastcgi.py 3.0.0 initializing
+2022-03-02 08:30:01.038801: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-02 08:30:01.038801: wfastcgi.py 3.0.0 initialized
+2022-03-02 08:32:37.208117: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-03-02 08:32:37.208117: Running on_exit tasks
+2022-03-02 11:59:39.173563: wfastcgi.py 3.0.0 started
+2022-03-02 11:59:39.173563: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-02 11:59:39.173563: wfastcgi.py 3.0.0 initializing
+2022-03-02 11:59:40.065474: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-02 11:59:40.065474: wfastcgi.py 3.0.0 initialized
+2022-03-02 14:23:36.683653: wfastcgi.py 3.0.0 started
+2022-03-02 14:23:36.683653: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-02 14:23:36.683653: wfastcgi.py 3.0.0 initializing
+2022-03-02 14:23:37.589902: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-02 14:23:37.589902: wfastcgi.py 3.0.0 initialized
+2022-03-04 09:38:27.087668: wfastcgi.py 3.0.0 started
+2022-03-04 09:38:27.089669: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-04 09:38:27.091667: wfastcgi.py 3.0.0 initializing
+2022-03-04 09:38:30.144231: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-04 09:38:30.144231: wfastcgi.py 3.0.0 initialized
+2022-03-04 09:45:00.049011: wfastcgi.py 3.0.0 started
+2022-03-04 09:45:00.049011: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-04 09:45:00.080258: wfastcgi.py 3.0.0 initializing
+2022-03-04 09:45:03.739663: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-04 09:45:03.739663: wfastcgi.py 3.0.0 initialized
+2022-03-04 09:48:36.212016: wfastcgi.py 3.0.0 started
+2022-03-04 09:48:36.212016: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-04 09:48:36.212016: wfastcgi.py 3.0.0 initializing
+2022-03-04 09:48:37.143302: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-04 09:48:37.143302: wfastcgi.py 3.0.0 initialized
+2022-03-04 10:09:27.788452: wfastcgi.py 3.0.0 started
+2022-03-04 10:09:27.788452: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-04 10:09:27.788452: wfastcgi.py 3.0.0 initializing
+2022-03-04 10:09:28.698135: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-04 10:09:28.698135: wfastcgi.py 3.0.0 initialized
+2022-03-04 10:32:58.435489: wfastcgi.py 3.0.0 started
+2022-03-04 10:32:58.435489: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-04 10:32:58.435489: wfastcgi.py 3.0.0 initializing
+2022-03-04 10:32:59.320786: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-04 10:32:59.320786: wfastcgi.py 3.0.0 initialized
+2022-03-04 10:41:53.376881: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-03-04 10:41:53.376881: Running on_exit tasks
+2022-03-04 10:51:16.637968: wfastcgi.py 3.0.0 started
+2022-03-04 10:51:16.637968: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-04 10:51:16.637968: wfastcgi.py 3.0.0 initializing
+2022-03-04 10:51:17.601370: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-04 10:51:17.602373: wfastcgi.py 3.0.0 initialized
+2022-03-04 10:52:04.552779: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-03-04 10:52:04.552779: Running on_exit tasks
+2022-03-04 10:54:37.679680: wfastcgi.py 3.0.0 started
+2022-03-04 10:54:37.679680: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-04 10:54:37.679680: wfastcgi.py 3.0.0 initializing
+2022-03-04 10:54:38.585927: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-04 10:54:38.585927: wfastcgi.py 3.0.0 initialized
+2022-03-04 10:56:44.173077: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-03-04 10:56:44.173077: Running on_exit tasks
+2022-03-04 10:56:52.949187: wfastcgi.py 3.0.0 started
+2022-03-04 10:56:52.949187: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-04 10:56:52.949187: wfastcgi.py 3.0.0 initializing
+2022-03-04 10:56:53.857751: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-04 10:56:53.857751: wfastcgi.py 3.0.0 initialized
+2022-03-04 11:00:40.720581: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-03-04 11:00:40.720581: Running on_exit tasks
+2022-03-06 06:31:36.858815: wfastcgi.py 3.0.0 started
+2022-03-06 06:31:36.858815: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-06 06:31:36.858815: wfastcgi.py 3.0.0 initializing
+2022-03-06 06:31:39.093196: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-06 06:31:39.093196: wfastcgi.py 3.0.0 initialized
+2022-03-06 06:48:24.349570: wfastcgi.py 3.0.0 started
+2022-03-06 06:48:24.349570: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-06 06:48:24.365196: wfastcgi.py 3.0.0 initializing
+2022-03-06 06:48:25.240185: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-06 06:48:25.240185: wfastcgi.py 3.0.0 initialized
+2022-03-07 05:05:07.770831: wfastcgi.py 3.0.0 started
+2022-03-07 05:05:07.770831: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-07 05:05:07.786429: wfastcgi.py 3.0.0 initializing
+2022-03-07 05:05:10.020804: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-07 05:05:10.020804: wfastcgi.py 3.0.0 initialized
+2022-03-07 05:08:03.856482: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-03-07 05:08:03.856482: Running on_exit tasks
+2022-03-07 05:08:13.288948: wfastcgi.py 3.0.0 started
+2022-03-07 05:08:13.288948: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-07 05:08:13.288948: wfastcgi.py 3.0.0 initializing
+2022-03-07 05:08:14.210850: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-07 05:08:14.210850: wfastcgi.py 3.0.0 initialized
+2022-03-07 06:17:48.555508: wfastcgi.py 3.0.0 started
+2022-03-07 06:17:48.555508: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-07 06:17:48.555508: wfastcgi.py 3.0.0 initializing
+2022-03-07 06:17:49.477374: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-07 06:17:49.477374: wfastcgi.py 3.0.0 initialized
+2022-03-07 06:49:21.075787: wfastcgi.py 3.0.0 started
+2022-03-07 06:49:21.075787: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-07 06:49:21.076787: wfastcgi.py 3.0.0 initializing
+2022-03-07 06:49:22.127779: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-07 06:49:22.128791: wfastcgi.py 3.0.0 initialized
+2022-03-07 06:52:05.981814: wfastcgi.py exiting because web.config has changed, matching .*((\.py)|(\.config))$
+2022-03-07 06:52:05.981814: Running on_exit tasks
+2022-03-07 06:53:10.325797: wfastcgi.py 3.0.0 started
+2022-03-07 06:53:10.326798: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-07 06:53:10.327802: wfastcgi.py 3.0.0 initializing
+2022-03-07 06:53:11.294788: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-07 06:53:11.295793: wfastcgi.py 3.0.0 initialized
+2022-03-07 07:45:01.751437: wfastcgi.py 3.0.0 started
+2022-03-07 07:45:01.751437: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-07 07:45:01.751437: wfastcgi.py 3.0.0 initializing
+2022-03-07 07:45:02.657686: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-07 07:45:02.657686: wfastcgi.py 3.0.0 initialized
+2022-03-07 07:48:53.732617: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-03-07 07:48:53.732617: Running on_exit tasks
+2022-03-07 07:49:27.264255: wfastcgi.py 3.0.0 started
+2022-03-07 07:49:27.264255: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-07 07:49:27.264255: wfastcgi.py 3.0.0 initializing
+2022-03-07 07:49:28.233002: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-07 07:49:28.233002: wfastcgi.py 3.0.0 initialized
+2022-03-07 07:49:45.006075: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-03-07 07:49:45.006075: Running on_exit tasks
+2022-03-07 07:49:48.349810: wfastcgi.py 3.0.0 started
+2022-03-07 07:49:48.349810: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-07 07:49:48.349810: wfastcgi.py 3.0.0 initializing
+2022-03-07 07:49:49.279138: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-07 07:49:49.279138: wfastcgi.py 3.0.0 initialized
+2022-03-07 07:50:30.391972: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-03-07 07:50:30.391972: Running on_exit tasks
+2022-03-07 07:50:33.487104: wfastcgi.py 3.0.0 started
+2022-03-07 07:50:33.487104: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-07 07:50:33.487104: wfastcgi.py 3.0.0 initializing
+2022-03-07 07:50:34.393375: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-07 07:50:34.393375: wfastcgi.py 3.0.0 initialized
+2022-03-07 07:50:49.599361: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-03-07 07:50:49.599361: Running on_exit tasks
+2022-03-07 07:50:53.193097: wfastcgi.py 3.0.0 started
+2022-03-07 07:50:53.193097: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-07 07:50:53.193097: wfastcgi.py 3.0.0 initializing
+2022-03-07 07:50:54.099364: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-07 07:50:54.099364: wfastcgi.py 3.0.0 initialized
+2022-03-07 07:51:03.597260: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-03-07 07:51:03.597260: Running on_exit tasks
+2022-03-07 07:51:07.378525: wfastcgi.py 3.0.0 started
+2022-03-07 07:51:07.378525: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-07 07:51:07.378525: wfastcgi.py 3.0.0 initializing
+2022-03-07 07:51:08.300396: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-07 07:51:08.300396: wfastcgi.py 3.0.0 initialized
+2022-03-07 07:51:14.144570: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-03-07 07:51:14.144570: Running on_exit tasks
+2022-03-08 02:54:32.073363: wfastcgi.py 3.0.0 started
+2022-03-08 02:54:32.073363: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-08 02:54:32.073363: wfastcgi.py 3.0.0 initializing
+2022-03-08 02:54:34.276481: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-08 02:54:34.276481: wfastcgi.py 3.0.0 initialized
+2022-03-11 05:54:27.703719: wfastcgi.py 3.0.0 started
+2022-03-11 05:54:27.703719: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-11 05:54:27.704715: wfastcgi.py 3.0.0 initializing
+2022-03-11 05:54:30.706739: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-11 05:54:30.707723: wfastcgi.py 3.0.0 initialized
+2022-03-11 06:13:45.628150: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-03-11 06:13:45.643774: Running on_exit tasks
+2022-03-11 06:14:42.815838: wfastcgi.py 3.0.0 started
+2022-03-11 06:14:42.815838: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-11 06:14:42.815838: wfastcgi.py 3.0.0 initializing
+2022-03-11 06:14:43.721567: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-11 06:14:43.721567: wfastcgi.py 3.0.0 initialized
+2022-03-11 06:15:53.585892: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-03-11 06:15:53.585892: Running on_exit tasks
+2022-03-11 06:17:21.112920: wfastcgi.py 3.0.0 started
+2022-03-11 06:17:21.112920: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-11 06:17:21.113952: wfastcgi.py 3.0.0 initializing
+2022-03-11 06:17:22.055952: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-11 06:17:22.056950: wfastcgi.py 3.0.0 initialized
+2022-03-11 06:20:25.570353: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-03-11 06:20:25.570353: Running on_exit tasks
+2022-03-11 06:21:24.096032: wfastcgi.py 3.0.0 started
+2022-03-11 06:21:24.096032: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-11 06:21:24.097030: wfastcgi.py 3.0.0 initializing
+2022-03-11 06:21:25.006054: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-11 06:21:25.006978: wfastcgi.py 3.0.0 initialized
+2022-03-11 06:22:58.839456: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-03-11 06:22:58.839456: Running on_exit tasks
+2022-03-11 06:26:37.998503: wfastcgi.py 3.0.0 started
+2022-03-11 06:26:37.999494: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-11 06:26:38.000502: wfastcgi.py 3.0.0 initializing
+2022-03-11 06:26:38.915501: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-11 06:26:38.916490: wfastcgi.py 3.0.0 initialized
+2022-03-11 06:28:17.019601: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-03-11 06:28:17.019601: Running on_exit tasks
+2022-03-11 06:28:21.828412: wfastcgi.py 3.0.0 started
+2022-03-11 06:28:21.828412: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-11 06:28:21.829416: wfastcgi.py 3.0.0 initializing
+2022-03-11 06:28:22.755429: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-11 06:28:22.756430: wfastcgi.py 3.0.0 initialized
+2022-03-11 06:36:05.030137: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-03-11 06:36:05.045721: Running on_exit tasks
+2022-03-11 06:37:42.741277: wfastcgi.py 3.0.0 started
+2022-03-11 06:37:42.741277: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-11 06:37:42.741277: wfastcgi.py 3.0.0 initializing
+2022-03-11 06:37:43.616281: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-11 06:37:43.616281: wfastcgi.py 3.0.0 initialized
+2022-03-11 06:42:27.478619: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-03-11 06:42:27.478619: Running on_exit tasks
+2022-03-11 06:43:17.716679: wfastcgi.py 3.0.0 started
+2022-03-11 06:43:17.716679: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-11 06:43:17.716679: wfastcgi.py 3.0.0 initializing
+2022-03-11 06:43:18.591672: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-11 06:43:18.591672: wfastcgi.py 3.0.0 initialized
+2022-03-11 07:07:37.812671: wfastcgi.py 3.0.0 started
+2022-03-11 07:07:37.812671: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-11 07:07:37.812671: wfastcgi.py 3.0.0 initializing
+2022-03-11 07:07:38.687644: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-11 07:07:38.687644: wfastcgi.py 3.0.0 initialized
+2022-03-15 04:24:07.231032: wfastcgi.py 3.0.0 started
+2022-03-15 04:24:07.231032: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-15 04:24:07.231032: wfastcgi.py 3.0.0 initializing
+2022-03-15 04:24:08.106030: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-15 04:24:08.106030: wfastcgi.py 3.0.0 initialized
+2022-03-15 15:00:20.735925: wfastcgi.py 3.0.0 started
+2022-03-15 15:00:20.735925: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-03-15 15:00:20.735925: wfastcgi.py 3.0.0 initializing
+2022-03-15 15:00:21.610934: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-03-15 15:00:21.610934: wfastcgi.py 3.0.0 initialized
+2022-04-11 14:28:11.952575: wfastcgi.py 3.0.0 started
+2022-04-11 14:28:11.968153: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-11 14:28:11.968153: wfastcgi.py 3.0.0 initializing
+2022-04-11 14:28:14.391354: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-11 14:28:14.391354: wfastcgi.py 3.0.0 initialized
+2022-04-20 07:24:12.217728: wfastcgi.py 3.0.0 started
+2022-04-20 07:24:12.217728: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-20 07:24:12.217728: wfastcgi.py 3.0.0 initializing
+2022-04-20 07:24:14.530230: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-20 07:24:14.530230: wfastcgi.py 3.0.0 initialized
+2022-04-20 08:19:32.150974: wfastcgi.py 3.0.0 started
+2022-04-20 08:19:32.150974: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-20 08:19:32.150974: wfastcgi.py 3.0.0 initializing
+2022-04-20 08:19:33.057224: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-20 08:19:33.057224: wfastcgi.py 3.0.0 initialized
+2022-04-20 09:41:04.838239: wfastcgi.py 3.0.0 started
+2022-04-20 09:41:04.838239: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-20 09:41:04.838239: wfastcgi.py 3.0.0 initializing
+2022-04-20 09:41:05.728862: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-20 09:41:05.728862: wfastcgi.py 3.0.0 initialized
+2022-04-21 04:03:25.983227: wfastcgi.py 3.0.0 started
+2022-04-21 04:03:25.983227: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 04:03:25.983227: wfastcgi.py 3.0.0 initializing
+2022-04-21 04:03:28.139457: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 04:03:28.139457: wfastcgi.py 3.0.0 initialized
+2022-04-21 04:28:07.987871: wfastcgi.py 3.0.0 started
+2022-04-21 04:28:07.987871: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 04:28:07.987871: wfastcgi.py 3.0.0 initializing
+2022-04-21 04:28:08.878497: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 04:28:08.878497: wfastcgi.py 3.0.0 initialized
+2022-04-21 04:28:39.693299: wfastcgi.py 3.0.0 started
+2022-04-21 04:28:39.693299: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 04:28:39.708924: wfastcgi.py 3.0.0 initializing
+2022-04-21 04:28:43.021426: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 04:28:43.037048: wfastcgi.py 3.0.0 initialized
+2022-04-21 04:29:55.174454: wfastcgi.py 3.0.0 started
+2022-04-21 04:29:55.174454: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 04:29:55.174454: wfastcgi.py 3.0.0 initializing
+2022-04-21 04:29:59.502552: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 04:29:59.502552: wfastcgi.py 3.0.0 initialized
+2022-04-21 04:31:36.151922: wfastcgi.py 3.0.0 started
+2022-04-21 04:31:36.151922: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 04:31:36.151922: wfastcgi.py 3.0.0 initializing
+2022-04-21 04:31:40.151918: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 04:31:40.151918: wfastcgi.py 3.0.0 initialized
+2022-04-21 04:31:59.402608: wfastcgi.py 3.0.0 started
+2022-04-21 04:31:59.402608: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 04:31:59.402608: wfastcgi.py 3.0.0 initializing
+2022-04-21 04:32:05.105733: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 04:32:05.105733: wfastcgi.py 3.0.0 initialized
+2022-04-21 05:12:17.395959: wfastcgi.py 3.0.0 started
+2022-04-21 05:12:17.395959: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 05:12:17.395959: wfastcgi.py 3.0.0 initializing
+2022-04-21 05:12:18.270944: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 05:12:18.270944: wfastcgi.py 3.0.0 initialized
+2022-04-21 05:13:17.527241: wfastcgi.py 3.0.0 started
+2022-04-21 05:13:17.527241: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 05:13:17.527241: wfastcgi.py 3.0.0 initializing
+2022-04-21 05:13:20.696688: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 05:13:20.696688: wfastcgi.py 3.0.0 initialized
+2022-04-21 05:13:36.181065: wfastcgi.py 3.0.0 started
+2022-04-21 05:13:36.181065: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 05:13:36.181065: wfastcgi.py 3.0.0 initializing
+2022-04-21 05:13:39.462316: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 05:13:39.462316: wfastcgi.py 3.0.0 initialized
+2022-04-21 05:15:18.546829: wfastcgi.py 3.0.0 started
+2022-04-21 05:15:18.546829: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 05:15:18.609330: wfastcgi.py 3.0.0 initializing
+2022-04-21 05:15:31.868306: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 05:15:31.868306: wfastcgi.py 3.0.0 initialized
+2022-04-21 05:26:14.289851: wfastcgi.py 3.0.0 started
+2022-04-21 05:26:14.289851: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 05:26:14.289851: wfastcgi.py 3.0.0 initializing
+2022-04-21 05:26:15.211725: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 05:26:15.227351: wfastcgi.py 3.0.0 initialized
+2022-04-21 05:41:52.216904: wfastcgi.py 3.0.0 started
+2022-04-21 05:41:52.216904: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 05:41:52.216904: wfastcgi.py 3.0.0 initializing
+2022-04-21 05:41:53.107530: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 05:41:53.107530: wfastcgi.py 3.0.0 initialized
+2022-04-21 07:05:00.740837: wfastcgi.py 3.0.0 started
+2022-04-21 07:05:00.740837: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 07:05:00.740837: wfastcgi.py 3.0.0 initializing
+2022-04-21 07:05:01.631465: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 07:05:01.631465: wfastcgi.py 3.0.0 initialized
+2022-04-21 07:06:37.169855: wfastcgi.py 3.0.0 started
+2022-04-21 07:06:37.169855: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 07:06:37.185481: wfastcgi.py 3.0.0 initializing
+2022-04-21 07:06:40.497979: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 07:06:40.513607: wfastcgi.py 3.0.0 initialized
+2022-04-21 07:18:59.276013: wfastcgi.py 3.0.0 started
+2022-04-21 07:18:59.276013: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 07:18:59.276013: wfastcgi.py 3.0.0 initializing
+2022-04-21 07:19:00.182249: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 07:19:00.182249: wfastcgi.py 3.0.0 initialized
+2022-04-21 08:34:05.923095: wfastcgi.py 3.0.0 started
+2022-04-21 08:34:05.923095: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 08:34:05.923095: wfastcgi.py 3.0.0 initializing
+2022-04-21 08:34:06.813738: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 08:34:06.813738: wfastcgi.py 3.0.0 initialized
+2022-04-21 09:10:34.890708: wfastcgi.py 3.0.0 started
+2022-04-21 09:10:34.890708: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 09:10:34.890708: wfastcgi.py 3.0.0 initializing
+2022-04-21 09:10:35.781310: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 09:10:35.781310: wfastcgi.py 3.0.0 initialized
+2022-04-21 09:39:00.378062: wfastcgi.py 3.0.0 started
+2022-04-21 09:39:00.378062: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 09:39:00.378062: wfastcgi.py 3.0.0 initializing
+2022-04-21 09:39:01.284316: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 09:39:01.284316: wfastcgi.py 3.0.0 initialized
+2022-04-21 10:49:11.837356: wfastcgi.py 3.0.0 started
+2022-04-21 10:49:11.837356: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 10:49:11.837356: wfastcgi.py 3.0.0 initializing
+2022-04-21 10:49:12.727993: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 10:49:12.727993: wfastcgi.py 3.0.0 initialized
+2022-04-21 11:10:35.709071: wfastcgi.py 3.0.0 started
+2022-04-21 11:10:35.709071: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 11:10:35.709071: wfastcgi.py 3.0.0 initializing
+2022-04-21 11:10:36.599692: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 11:10:36.599692: wfastcgi.py 3.0.0 initialized
+2022-04-21 11:13:44.053741: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-04-21 11:13:44.053741: Running on_exit tasks
+2022-04-21 11:16:45.360886: wfastcgi.py 3.0.0 started
+2022-04-21 11:16:45.360886: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 11:16:45.376514: wfastcgi.py 3.0.0 initializing
+2022-04-21 11:16:46.267139: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 11:16:46.267139: wfastcgi.py 3.0.0 initialized
+2022-04-21 11:18:12.880971: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-04-21 11:18:12.880971: Running on_exit tasks
+2022-04-21 11:19:01.150457: wfastcgi.py 3.0.0 started
+2022-04-21 11:19:01.150457: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 11:19:01.150457: wfastcgi.py 3.0.0 initializing
+2022-04-21 11:19:02.041049: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 11:19:02.041049: wfastcgi.py 3.0.0 initialized
+2022-04-21 11:20:19.205337: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-04-21 11:20:19.205337: Running on_exit tasks
+2022-04-21 11:20:57.008565: wfastcgi.py 3.0.0 started
+2022-04-21 11:20:57.008565: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 11:20:57.008565: wfastcgi.py 3.0.0 initializing
+2022-04-21 11:20:57.914817: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 11:20:57.914817: wfastcgi.py 3.0.0 initialized
+2022-04-21 11:32:55.607303: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-04-21 11:32:55.607303: Running on_exit tasks
+2022-04-21 11:33:14.216682: wfastcgi.py 3.0.0 started
+2022-04-21 11:33:14.216682: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 11:33:14.216682: wfastcgi.py 3.0.0 initializing
+2022-04-21 11:33:15.107302: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 11:33:15.107302: wfastcgi.py 3.0.0 initialized
+2022-04-21 11:38:22.896791: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-04-21 11:38:22.912412: Running on_exit tasks
+2022-04-21 11:41:49.730134: wfastcgi.py 3.0.0 started
+2022-04-21 11:41:49.730134: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 11:41:49.730134: wfastcgi.py 3.0.0 initializing
+2022-04-21 11:41:50.620726: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 11:41:50.636384: wfastcgi.py 3.0.0 initialized
+2022-04-21 11:42:59.327594: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-04-21 11:42:59.327594: Running on_exit tasks
+2022-04-21 11:43:06.878231: wfastcgi.py 3.0.0 started
+2022-04-21 11:43:06.893835: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 11:43:06.893835: wfastcgi.py 3.0.0 initializing
+2022-04-21 11:43:07.768833: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 11:43:07.768833: wfastcgi.py 3.0.0 initialized
+2022-04-21 11:43:34.952456: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-04-21 11:43:34.952456: Running on_exit tasks
+2022-04-21 11:43:42.473180: wfastcgi.py 3.0.0 started
+2022-04-21 11:43:42.473180: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 11:43:42.473180: wfastcgi.py 3.0.0 initializing
+2022-04-21 11:43:43.348179: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 11:43:43.348179: wfastcgi.py 3.0.0 initialized
+2022-04-21 11:52:34.941419: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-04-21 11:52:34.941419: Running on_exit tasks
+2022-04-21 11:53:38.679718: wfastcgi.py 3.0.0 started
+2022-04-21 11:53:38.679718: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 11:53:38.679718: wfastcgi.py 3.0.0 initializing
+2022-04-21 11:53:39.560253: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 11:53:39.575876: wfastcgi.py 3.0.0 initialized
+2022-04-21 11:57:19.936871: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-04-21 11:57:19.936871: Running on_exit tasks
+2022-04-21 11:57:28.718086: wfastcgi.py 3.0.0 started
+2022-04-21 11:57:28.718086: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 11:57:28.718086: wfastcgi.py 3.0.0 initializing
+2022-04-21 11:57:29.639964: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 11:57:29.639964: wfastcgi.py 3.0.0 initialized
+2022-04-21 12:01:31.127118: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-04-21 12:01:31.127118: Running on_exit tasks
+2022-04-21 12:01:42.316812: wfastcgi.py 3.0.0 started
+2022-04-21 12:01:42.316812: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 12:01:42.316812: wfastcgi.py 3.0.0 initializing
+2022-04-21 12:01:43.238710: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 12:01:43.254338: wfastcgi.py 3.0.0 initialized
+2022-04-21 12:03:31.151993: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-04-21 12:03:31.151993: Running on_exit tasks
+2022-04-21 12:08:04.400005: wfastcgi.py 3.0.0 started
+2022-04-21 12:08:04.400005: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 12:08:04.400005: wfastcgi.py 3.0.0 initializing
+2022-04-21 12:08:05.306270: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 12:08:05.306270: wfastcgi.py 3.0.0 initialized
+2022-04-21 12:13:01.158459: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-04-21 12:13:01.158459: Running on_exit tasks
+2022-04-21 12:13:24.005069: wfastcgi.py 3.0.0 started
+2022-04-21 12:13:24.005069: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 12:13:24.020655: wfastcgi.py 3.0.0 initializing
+2022-04-21 12:13:24.911317: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 12:13:24.911317: wfastcgi.py 3.0.0 initialized
+2022-04-21 12:14:07.067562: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-04-21 12:14:07.067562: Running on_exit tasks
+2022-04-21 12:14:42.086190: wfastcgi.py 3.0.0 started
+2022-04-21 12:14:42.086190: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 12:14:42.086190: wfastcgi.py 3.0.0 initializing
+2022-04-21 12:14:42.976828: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 12:14:42.976828: wfastcgi.py 3.0.0 initialized
+2022-04-21 12:15:48.105602: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-04-21 12:15:48.105602: Running on_exit tasks
+2022-04-21 12:21:37.379145: wfastcgi.py 3.0.0 started
+2022-04-21 12:21:37.379145: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 12:21:37.379145: wfastcgi.py 3.0.0 initializing
+2022-04-21 12:21:38.269766: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 12:21:38.285392: wfastcgi.py 3.0.0 initialized
+2022-04-21 12:51:27.863960: wfastcgi.py 3.0.0 started
+2022-04-21 12:51:27.863960: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 12:51:27.863960: wfastcgi.py 3.0.0 initializing
+2022-04-21 12:51:28.504581: wfastcgi.py 3.0.0 started
+2022-04-21 12:51:28.504581: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 12:51:28.504581: wfastcgi.py 3.0.0 initializing
+2022-04-21 12:51:28.754582: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 12:51:28.754582: wfastcgi.py 3.0.0 initialized
+2022-04-21 12:51:29.379580: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 12:51:29.379580: wfastcgi.py 3.0.0 initialized
+2022-04-21 13:09:51.903873: wfastcgi.py 3.0.0 started
+2022-04-21 13:09:51.903873: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-21 13:09:51.903873: wfastcgi.py 3.0.0 initializing
+2022-04-21 13:09:52.794475: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-21 13:09:52.810099: wfastcgi.py 3.0.0 initialized
+2022-04-22 04:52:40.844101: wfastcgi.py 3.0.0 started
+2022-04-22 04:52:40.844101: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-22 04:52:40.859711: wfastcgi.py 3.0.0 initializing
+2022-04-22 04:52:43.234721: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-22 04:52:43.250330: wfastcgi.py 3.0.0 initialized
+2022-04-22 06:56:02.285967: wfastcgi.py 3.0.0 started
+2022-04-22 06:56:02.285967: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-22 06:56:02.285967: wfastcgi.py 3.0.0 initializing
+2022-04-22 06:56:03.206518: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-22 06:56:03.206518: wfastcgi.py 3.0.0 initialized
+2022-04-22 08:56:11.173770: wfastcgi.py 3.0.0 started
+2022-04-22 08:56:11.173770: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-22 08:56:11.173770: wfastcgi.py 3.0.0 initializing
+2022-04-22 08:56:12.080019: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-22 08:56:12.080019: wfastcgi.py 3.0.0 initialized
+2022-04-22 08:58:35.942777: wfastcgi.py 3.0.0 started
+2022-04-22 08:58:35.942777: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-22 08:58:35.942777: wfastcgi.py 3.0.0 initializing
+2022-04-22 08:58:36.864661: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-22 08:58:36.864661: wfastcgi.py 3.0.0 initialized
+2022-04-24 14:22:47.997479: wfastcgi.py 3.0.0 started
+2022-04-24 14:22:47.997479: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-24 14:22:47.997479: wfastcgi.py 3.0.0 initializing
+2022-04-24 14:22:50.216231: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-24 14:22:50.216231: wfastcgi.py 3.0.0 initialized
+2022-04-29 05:46:46.052759: wfastcgi.py 3.0.0 started
+2022-04-29 05:46:46.052759: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 05:46:46.052759: wfastcgi.py 3.0.0 initializing
+2022-04-29 05:46:49.287183: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 05:46:49.287183: wfastcgi.py 3.0.0 initialized
+2022-04-29 08:05:00.489850: wfastcgi.py 3.0.0 started
+2022-04-29 08:05:00.489850: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 08:05:00.489850: wfastcgi.py 3.0.0 initializing
+2022-04-29 08:05:01.411717: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 08:05:01.411717: wfastcgi.py 3.0.0 initialized
+2022-04-29 08:37:23.629935: wfastcgi.py 3.0.0 started
+2022-04-29 08:37:23.629935: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 08:37:23.629935: wfastcgi.py 3.0.0 initializing
+2022-04-29 08:37:24.567435: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 08:37:24.567435: wfastcgi.py 3.0.0 initialized
+2022-04-29 09:05:36.612125: wfastcgi.py 3.0.0 started
+2022-04-29 09:05:36.612125: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 09:05:36.612125: wfastcgi.py 3.0.0 initializing
+2022-04-29 09:05:37.549621: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 09:05:37.549621: wfastcgi.py 3.0.0 initialized
+2022-04-29 09:21:00.310937: wfastcgi.py 3.0.0 started
+2022-04-29 09:21:00.310937: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 09:21:00.310937: wfastcgi.py 3.0.0 initializing
+2022-04-29 09:21:01.217189: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 09:21:01.217189: wfastcgi.py 3.0.0 initialized
+2022-04-29 09:42:22.462956: wfastcgi.py 3.0.0 started
+2022-04-29 09:42:22.462956: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 09:42:22.462956: wfastcgi.py 3.0.0 initializing
+2022-04-29 09:42:23.369205: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 09:42:23.369205: wfastcgi.py 3.0.0 initialized
+2022-04-29 10:03:55.966967: wfastcgi.py 3.0.0 started
+2022-04-29 10:03:55.966967: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 10:03:55.966967: wfastcgi.py 3.0.0 initializing
+2022-04-29 10:03:56.045093: wfastcgi.py 3.0.0 started
+2022-04-29 10:03:56.045093: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 10:03:56.045093: wfastcgi.py 3.0.0 initializing
+2022-04-29 10:03:56.060686: wfastcgi.py 3.0.0 started
+2022-04-29 10:03:56.060686: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 10:03:56.060686: wfastcgi.py 3.0.0 initializing
+2022-04-29 10:03:56.154466: wfastcgi.py 3.0.0 started
+2022-04-29 10:03:56.154466: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 10:03:56.154466: wfastcgi.py 3.0.0 initializing
+2022-04-29 10:03:57.013843: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 10:03:57.013843: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 10:03:57.013843: wfastcgi.py 3.0.0 initialized
+2022-04-29 10:03:57.013843: wfastcgi.py 3.0.0 initialized
+2022-04-29 10:03:57.045092: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 10:03:57.045092: wfastcgi.py 3.0.0 initialized
+2022-04-29 10:03:57.107591: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 10:03:57.107591: wfastcgi.py 3.0.0 initialized
+2022-04-29 10:06:56.705835: wfastcgi.py 3.0.0 started
+2022-04-29 10:06:56.705835: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 10:06:56.705835: wfastcgi.py 3.0.0 initializing
+2022-04-29 10:06:57.627702: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 10:06:57.627702: wfastcgi.py 3.0.0 initialized
+2022-04-29 10:14:57.067968: wfastcgi.py 3.0.0 started
+2022-04-29 10:14:57.067968: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 10:14:57.067968: wfastcgi.py 3.0.0 initializing
+2022-04-29 10:14:57.974249: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 10:14:57.974249: wfastcgi.py 3.0.0 initialized
+2022-04-29 10:28:41.987973: Unhandled exception in wfastcgi.py: Traceback (most recent call last):
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 774, in main
+    record = read_fastcgi_record(fcgi_stream)
+  File "C:\inetpub\wwwroot\file_upload\wfastcgi.py", line 158, in read_fastcgi_record
+    data = stream.read(8)     # read record
+OSError: [Errno 22] Invalid argument
+2022-04-29 10:28:41.987973: Running on_exit tasks
+2022-04-29 10:28:41.987973: wfastcgi.py 3.0.0 closed
+2022-04-29 10:35:16.074420: wfastcgi.py 3.0.0 started
+2022-04-29 10:35:16.074420: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 10:35:16.074420: wfastcgi.py 3.0.0 initializing
+2022-04-29 10:35:16.168168: wfastcgi.py 3.0.0 started
+2022-04-29 10:35:16.168168: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 10:35:16.168168: wfastcgi.py 3.0.0 initializing
+2022-04-29 10:35:16.261922: wfastcgi.py 3.0.0 started
+2022-04-29 10:35:16.261922: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 10:35:16.261922: wfastcgi.py 3.0.0 initializing
+2022-04-29 10:35:17.058798: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 10:35:17.058798: wfastcgi.py 3.0.0 initialized
+2022-04-29 10:35:17.090047: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 10:35:17.090047: wfastcgi.py 3.0.0 initialized
+2022-04-29 10:35:17.199424: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 10:35:17.199424: wfastcgi.py 3.0.0 initialized
+2022-04-29 10:36:00.043176: wfastcgi.py 3.0.0 started
+2022-04-29 10:36:00.043176: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 10:36:00.043176: wfastcgi.py 3.0.0 initializing
+2022-04-29 10:36:00.965046: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 10:36:00.965046: wfastcgi.py 3.0.0 initialized
+2022-04-29 10:56:51.687090: wfastcgi.py 3.0.0 started
+2022-04-29 10:56:51.687090: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 10:56:51.687090: wfastcgi.py 3.0.0 initializing
+2022-04-29 10:56:54.187087: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 10:56:54.187087: wfastcgi.py 3.0.0 initialized
+2022-04-29 10:57:28.819367: wfastcgi.py 3.0.0 started
+2022-04-29 10:57:28.819367: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 10:57:28.819367: wfastcgi.py 3.0.0 initializing
+2022-04-29 10:57:29.710000: wfastcgi.py 3.0.0 started
+2022-04-29 10:57:29.710000: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 10:57:29.710000: wfastcgi.py 3.0.0 initializing
+2022-04-29 10:57:32.475613: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 10:57:32.475613: wfastcgi.py 3.0.0 initialized
+2022-04-29 10:57:32.678737: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 10:57:32.678737: wfastcgi.py 3.0.0 initialized
+2022-04-29 11:03:04.391331: wfastcgi.py 3.0.0 started
+2022-04-29 11:03:04.391331: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 11:03:04.391331: wfastcgi.py 3.0.0 initializing
+2022-04-29 11:03:05.297579: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 11:03:05.297579: wfastcgi.py 3.0.0 initialized
+2022-04-29 11:32:58.263133: wfastcgi.py 3.0.0 started
+2022-04-29 11:32:58.263133: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 11:32:58.263133: wfastcgi.py 3.0.0 initializing
+2022-04-29 11:32:59.169383: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 11:32:59.169383: wfastcgi.py 3.0.0 initialized
+2022-04-29 11:47:46.358913: wfastcgi.py 3.0.0 started
+2022-04-29 11:47:46.358913: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 11:47:46.358913: wfastcgi.py 3.0.0 initializing
+2022-04-29 11:47:47.296413: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 11:47:47.296413: wfastcgi.py 3.0.0 initialized
+2022-04-29 11:51:00.228724: wfastcgi.py 3.0.0 started
+2022-04-29 11:51:00.228724: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 11:51:00.244352: wfastcgi.py 3.0.0 initializing
+2022-04-29 11:51:01.166191: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 11:51:01.166191: wfastcgi.py 3.0.0 initialized
+2022-04-29 12:00:18.177851: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-04-29 12:00:18.177851: Running on_exit tasks
+2022-04-29 12:00:31.444834: wfastcgi.py 3.0.0 started
+2022-04-29 12:00:31.460440: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-04-29 12:00:31.460440: wfastcgi.py 3.0.0 initializing
+2022-04-29 12:00:32.369074: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-04-29 12:00:32.369074: wfastcgi.py 3.0.0 initialized
+2022-05-02 04:27:46.759470: wfastcgi.py 3.0.0 started
+2022-05-02 04:27:46.759470: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-02 04:27:46.775095: wfastcgi.py 3.0.0 initializing
+2022-05-02 04:27:49.993842: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-02 04:27:49.993842: wfastcgi.py 3.0.0 initialized
+2022-05-02 05:08:38.467847: wfastcgi.py 3.0.0 started
+2022-05-02 05:08:38.467847: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-02 05:08:38.468817: wfastcgi.py 3.0.0 initializing
+2022-05-02 05:08:39.434245: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-02 05:08:39.434245: wfastcgi.py 3.0.0 initialized
+2022-05-02 05:25:52.884694: wfastcgi.py 3.0.0 started
+2022-05-02 05:25:52.885699: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-02 05:25:52.887698: wfastcgi.py 3.0.0 initializing
+2022-05-02 05:25:58.039700: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-02 05:25:58.040698: wfastcgi.py 3.0.0 initialized
+2022-05-02 06:55:48.616617: wfastcgi.py 3.0.0 started
+2022-05-02 06:55:48.617619: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-02 06:55:48.618622: wfastcgi.py 3.0.0 initializing
+2022-05-02 06:55:49.616618: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-02 06:55:49.617624: wfastcgi.py 3.0.0 initialized
+2022-05-02 07:08:52.033394: wfastcgi.py 3.0.0 started
+2022-05-02 07:08:52.043392: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-02 07:08:52.070398: wfastcgi.py 3.0.0 initializing
+2022-05-02 07:08:58.006011: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-02 07:08:58.021634: wfastcgi.py 3.0.0 initialized
+2022-05-02 07:56:42.933529: wfastcgi.py 3.0.0 started
+2022-05-02 07:56:42.949154: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-02 07:56:42.949154: wfastcgi.py 3.0.0 initializing
+2022-05-02 07:56:43.886655: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-02 07:56:43.886655: wfastcgi.py 3.0.0 initialized
+2022-05-02 08:34:19.793003: wfastcgi.py 3.0.0 started
+2022-05-02 08:34:19.793003: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-02 08:34:19.793003: wfastcgi.py 3.0.0 initializing
+2022-05-02 08:34:20.730506: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-02 08:34:20.730506: wfastcgi.py 3.0.0 initialized
+2022-05-02 09:04:58.594247: wfastcgi.py 3.0.0 started
+2022-05-02 09:04:58.595249: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-02 09:04:58.596248: wfastcgi.py 3.0.0 initializing
+2022-05-02 09:04:59.560244: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-02 09:04:59.561204: wfastcgi.py 3.0.0 initialized
+2022-05-02 09:28:46.928563: wfastcgi.py 3.0.0 started
+2022-05-02 09:28:46.928563: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-02 09:28:46.929527: wfastcgi.py 3.0.0 initializing
+2022-05-02 09:28:47.891569: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-02 09:28:47.892563: wfastcgi.py 3.0.0 initialized
+2022-05-02 11:12:16.018479: wfastcgi.py 3.0.0 started
+2022-05-02 11:12:16.018479: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-02 11:12:16.019480: wfastcgi.py 3.0.0 initializing
+2022-05-02 11:12:16.972495: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-02 11:12:16.973478: wfastcgi.py 3.0.0 initialized
+2022-05-04 02:37:34.350304: wfastcgi.py 3.0.0 started
+2022-05-04 02:37:34.350304: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-04 02:37:34.350304: wfastcgi.py 3.0.0 initializing
+2022-05-04 02:37:36.928430: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-04 02:37:36.928430: wfastcgi.py 3.0.0 initialized
+2022-05-04 03:07:59.682428: wfastcgi.py 3.0.0 started
+2022-05-04 03:07:59.683428: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-04 03:07:59.684429: wfastcgi.py 3.0.0 initializing
+2022-05-04 03:08:01.199429: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-04 03:08:01.200427: wfastcgi.py 3.0.0 initialized
+2022-05-05 07:09:13.693847: wfastcgi.py 3.0.0 started
+2022-05-05 07:09:13.695846: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-05 07:09:13.696808: wfastcgi.py 3.0.0 initializing
+2022-05-05 07:09:17.151851: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-05 07:09:17.152850: wfastcgi.py 3.0.0 initialized
+2022-05-05 09:42:41.923108: wfastcgi.py 3.0.0 started
+2022-05-05 09:42:41.924118: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-05 09:42:41.925121: wfastcgi.py 3.0.0 initializing
+2022-05-05 09:42:42.859150: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-05 09:42:42.860115: wfastcgi.py 3.0.0 initialized
+2022-05-05 09:48:28.036976: wfastcgi.py 3.0.0 started
+2022-05-05 09:48:28.051974: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-05 09:48:28.070977: wfastcgi.py 3.0.0 initializing
+2022-05-05 09:48:33.366975: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-05 09:48:33.367977: wfastcgi.py 3.0.0 initialized
+2022-05-05 10:33:01.051487: wfastcgi.py 3.0.0 started
+2022-05-05 10:33:01.052483: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-05 10:33:01.053487: wfastcgi.py 3.0.0 initializing
+2022-05-05 10:33:01.977486: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-05 10:33:01.978483: wfastcgi.py 3.0.0 initialized
+2022-05-06 10:41:31.389196: wfastcgi.py 3.0.0 started
+2022-05-06 10:41:31.390194: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-06 10:41:31.391199: wfastcgi.py 3.0.0 initializing
+2022-05-06 10:41:32.316433: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-06 10:41:32.317437: wfastcgi.py 3.0.0 initialized
+2022-05-06 11:18:44.362674: wfastcgi.py 3.0.0 started
+2022-05-06 11:18:44.363674: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-06 11:18:44.364681: wfastcgi.py 3.0.0 initializing
+2022-05-06 11:18:45.963671: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-06 11:18:45.964669: wfastcgi.py 3.0.0 initialized
+2022-05-07 11:39:57.163539: wfastcgi.py 3.0.0 started
+2022-05-07 11:39:57.164543: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-07 11:39:57.165550: wfastcgi.py 3.0.0 initializing
+2022-05-07 11:39:58.807542: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-07 11:39:58.807542: wfastcgi.py 3.0.0 initialized
+2022-05-09 04:42:01.485474: wfastcgi.py 3.0.0 started
+2022-05-09 04:42:01.486520: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-09 04:42:01.488482: wfastcgi.py 3.0.0 initializing
+2022-05-09 04:42:02.499531: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-09 04:42:02.501528: wfastcgi.py 3.0.0 initialized
+2022-05-09 06:29:27.363088: wfastcgi.py 3.0.0 started
+2022-05-09 06:29:27.364080: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-09 06:29:27.366098: wfastcgi.py 3.0.0 initializing
+2022-05-09 06:29:30.346095: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-09 06:29:30.347098: wfastcgi.py 3.0.0 initialized
+2022-05-11 11:30:35.735054: wfastcgi.py 3.0.0 started
+2022-05-11 11:30:35.736004: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-11 11:30:35.737053: wfastcgi.py 3.0.0 initializing
+2022-05-11 11:30:36.674051: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-11 11:30:36.675056: wfastcgi.py 3.0.0 initialized
+2022-05-12 03:35:27.364960: wfastcgi.py 3.0.0 started
+2022-05-12 03:35:27.364960: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-12 03:35:27.365956: wfastcgi.py 3.0.0 initializing
+2022-05-12 03:35:28.305917: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-12 03:35:28.306567: wfastcgi.py 3.0.0 initialized
+2022-05-13 21:15:41.768176: wfastcgi.py 3.0.0 started
+2022-05-13 21:15:41.783819: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-05-13 21:15:41.783819: wfastcgi.py 3.0.0 initializing
+2022-05-13 21:15:44.171939: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-05-13 21:15:44.171939: wfastcgi.py 3.0.0 initialized
+2022-08-10 09:16:44.355311: wfastcgi.py 3.0.0 started
+2022-08-10 09:16:44.355311: Python version: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2022-08-10 09:16:44.370885: wfastcgi.py 3.0.0 initializing
+2022-08-10 09:16:47.886567: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-08-10 09:16:47.886567: wfastcgi.py 3.0.0 initialized
+2022-10-03 08:28:50.444145: wfastcgi.py 3.0.0 started
+2022-10-03 08:28:50.445148: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-03 08:28:50.446153: wfastcgi.py 3.0.0 initializing
+2022-10-03 08:28:51.658187: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-10-03 08:28:51.659149: wfastcgi.py 3.0.0 initialized
+2022-10-03 12:22:46.443406: wfastcgi.py 3.0.0 started
+2022-10-03 12:22:46.444406: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-03 12:22:46.445403: wfastcgi.py 3.0.0 initializing
+2022-10-03 12:22:47.524401: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-10-03 12:22:47.525404: wfastcgi.py 3.0.0 initialized
+2022-10-03 12:28:34.089406: wfastcgi.py 3.0.0 started
+2022-10-03 12:28:34.090409: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-03 12:28:34.091449: wfastcgi.py 3.0.0 initializing
+2022-10-03 12:28:35.181404: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-10-03 12:28:35.183404: wfastcgi.py 3.0.0 initialized
+2022-10-03 12:36:15.664410: wfastcgi.py 3.0.0 started
+2022-10-03 12:36:15.665408: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-03 12:36:15.666422: wfastcgi.py 3.0.0 initializing
+2022-10-03 12:36:16.777403: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-10-03 12:36:16.778405: wfastcgi.py 3.0.0 initialized
+2022-10-04 06:55:20.225889: wfastcgi.py 3.0.0 started
+2022-10-04 06:55:20.225889: wfastcgi.py 3.0.0 started
+2022-10-04 06:55:20.226906: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-04 06:55:20.226906: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-04 06:55:20.227881: wfastcgi.py 3.0.0 initializing
+2022-10-04 06:55:20.227881: wfastcgi.py 3.0.0 initializing
+2022-10-04 06:55:21.386874: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-10-04 06:55:21.387899: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-10-04 06:55:21.388881: wfastcgi.py 3.0.0 initialized
+2022-10-04 06:55:21.388881: wfastcgi.py 3.0.0 initialized
+2022-10-13 05:44:13.353544: wfastcgi.py 3.0.0 started
+2022-10-13 05:44:13.354538: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-13 05:44:13.355530: wfastcgi.py 3.0.0 initializing
+2022-10-13 05:44:14.516554: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-10-13 05:44:14.517527: wfastcgi.py 3.0.0 initialized
+2022-10-18 06:53:49.856397: wfastcgi.py 3.0.0 started
+2022-10-18 06:53:49.857395: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-18 06:53:49.858394: wfastcgi.py 3.0.0 initializing
+2022-10-18 06:53:51.278397: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-10-18 06:53:51.279396: wfastcgi.py 3.0.0 initialized
+2022-10-18 07:50:20.285156: wfastcgi.py 3.0.0 started
+2022-10-18 07:50:20.285673: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-18 07:50:20.287605: wfastcgi.py 3.0.0 initializing
+2022-10-18 07:50:21.631668: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-10-18 07:50:21.633640: wfastcgi.py 3.0.0 initialized
+2022-10-18 09:00:43.070645: wfastcgi.py 3.0.0 started
+2022-10-18 09:00:43.071615: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-18 09:00:43.072637: wfastcgi.py 3.0.0 initializing
+2022-10-18 09:00:44.345632: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-10-18 09:00:44.347625: wfastcgi.py 3.0.0 initialized
+2022-10-18 09:40:57.445943: wfastcgi.py 3.0.0 started
+2022-10-18 09:40:57.446942: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-18 09:40:57.447991: wfastcgi.py 3.0.0 initializing
+2022-10-18 09:40:58.902944: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-10-18 09:40:58.903941: wfastcgi.py 3.0.0 initialized
+2022-10-18 10:49:34.410857: wfastcgi.py 3.0.0 started
+2022-10-18 10:49:34.410857: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-18 10:49:34.412857: wfastcgi.py 3.0.0 initializing
+2022-10-18 10:49:35.764854: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-10-18 10:49:35.765864: wfastcgi.py 3.0.0 initialized
+2022-10-18 10:50:28.682258: wfastcgi.py exiting because file_upload.py has changed, matching .*((\.py)|(\.config))$
+2022-10-18 10:50:28.682865: Running on_exit tasks
+2022-10-18 11:28:29.642402: wfastcgi.py 3.0.0 started
+2022-10-18 11:28:29.643373: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-18 11:28:29.644393: wfastcgi.py 3.0.0 initializing
+2022-10-18 11:28:30.913384: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-10-18 11:28:30.914367: wfastcgi.py 3.0.0 initialized
+2022-10-18 12:08:31.352947: wfastcgi.py exiting because main.py has changed, matching .*((\.py)|(\.config))$
+2022-10-18 12:08:31.353928: Running on_exit tasks
+2022-10-18 12:11:34.813453: wfastcgi.py 3.0.0 started
+2022-10-18 12:11:34.814450: Python version: 3.8.10 (tags/v3.8.10:3d8993a, May  3 2021, 11:48:03) [MSC v.1928 64 bit (AMD64)]
+2022-10-18 12:11:34.815452: wfastcgi.py 3.0.0 initializing
+2022-10-18 12:11:38.750433: wfastcgi.py will restart when files in C:\inetpub\wwwroot\file_upload\ are changed: .*((\.py)|(\.config))$
+2022-10-18 12:11:38.751448: wfastcgi.py 3.0.0 initialized
